@@ -1,11 +1,11 @@
-# SocialMediaWebsite 📢
+# SocialMediaWebsite 
 
 ### A full-stack social media web application developed as a coursework project for a Software Engineering course. The platform allows users to authenticate via Google and interact with a shared message board — viewing, creating, and deleting posts.
 
-# 🎯 Objective
+# Objective
 ### The objective of this project was to design and build a functional, full-stack web application that demonstrates core software engineering principles, including  database integration, user authentication, and cloud deployment. The application serves as a lightweight social media platform where authenticated users can participate in a shared message feed, fostering an understanding front-end to back-end to deployment.
 
-# ✨ Features
+# Features
 
 ### Google OAuth Authentication — Sign in securely using your Gmail account via Google OAuth 2.0. No separate registration required.
 ### View Messages — Browse all messages posted by users on the platform in a clean, accessible feed.
